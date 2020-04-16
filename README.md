@@ -1,6 +1,6 @@
 Working python 2/3 example scripts for Accsyn tutorial "Automised Production Outsourcing" available at:
 
-https://support.accsyn.com/automised-production-outsourcing
+https://support.accsyn.com/tutorial-automised-production-outsourcing
 
 Use/modify/distribute freely, at your own risk, no warranties or liabilities are provided. 
 
